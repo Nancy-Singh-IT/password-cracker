@@ -21,6 +21,8 @@ Trying: password
 
 Password found: password
 
+![Port Scan Output](password-cracking-process.png)
+
 ##  Learning Outcome
 - Learned how dictionary attacks work
 - Understood password vulnerabilities
